@@ -1,7 +1,9 @@
 .card-list {
    display: flex;
    flex-wrap: wrap;
-   gap: 1rem;
+   gap: 1.5rem;
    justify-content: center;
-   padding: 38px;
+   padding: 40px 20px;
+   align-items: stretch;
 }
+
